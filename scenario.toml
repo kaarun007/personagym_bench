@@ -15,7 +15,6 @@ env = {
 [[participants]]
 agentbeats_id = "019b9f87-7738-7f01-8dfd-a2ad4284da66"
 name = "PersonaGymAgent"
-image = ""
 env = {
   NEBIUS_API_KEY = "${NEBIUS_API_KEY}",
   LOG_LEVEL = "INFO",
